@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4C7DFF&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Web+Developer;Web+Developer+%7C+JavaScript+Enthusiast;Currently+Learning+React+%26+MERN;Building+My+Way+To+Full-Stack" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4C7DFF&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Web+Developer;Web+Developer+%7C+JavaScript+Enthusiast;Currently+Learning+React+%26+MERN;Building+My+Way+To+Full-Stack" />
-</p>
 
 ---
 
