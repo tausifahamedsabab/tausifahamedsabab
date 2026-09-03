@@ -1,3 +1,4 @@
+<img src="<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/83bd4580-3444-4c09-be37-502279702156" />" alt="Profile Banner" width="100%">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4C7DFF&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Web+Developer;Web+Developer+%7C+JavaScript+Enthusiast;Currently+Learning+React+%26+MERN;Building+My+Way+To+Full-Stack" />
 </p>
