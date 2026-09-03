@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4C7DFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Web+Developer+%7C+JavaScript+Enthusiast;Currently+Learning+React;Future+MERN+Stack+Developer" />
+</p>
 <h1 align="center">I'm Tausif Ahamed Sabab</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | Learning React & Building for the Web</h3>
 
