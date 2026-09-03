@@ -1,6 +1,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4C7DFF&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Web+Developer;Web+Developer+%7C+JavaScript+Enthusiast;Currently+Learning+React+%26+MERN;Building+My+Way+To+Full-Stack" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=4C7DFF&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Web+Developer;Web+Developer+%7C+JavaScript+Enthusiast;Currently+Learning+React+%26+MERN;Building+My+Way+To+Full-Stack" />
+</p>
+
+---
+
+### 👋 About Me
+
+I'm a passionate **Web Developer** from Bangladesh, focused on building a strong foundation in modern web technologies. I have experience with **HTML, CSS, JavaScript, and TypeScript**, and I'm currently learning **React** while working toward becoming a **Full-Stack Web Developer**.
+
+I enjoy building projects, solving problems, and learning new technologies. My goal is to turn ideas into clean, functional, and user-friendly web applications.
+
+### 🔭 Currently
+
+- ⚛️ Learning **React** and deepening my **JavaScript & TypeScript** knowledge
+- 🚀 Exploring the **MERN Stack** with the goal of becoming a Full-Stack Developer
+- 🧩 Practicing **JavaScript & TypeScript problems** to improve problem-solving
+- 🛠️ Building projects and gaining hands-on development experience
+- 🌱 Always learning and exploring new technologies
 <h1 align="center">I'm Tausif Ahamed Sabab</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | Learning React & Building for the Web</h3>
 
